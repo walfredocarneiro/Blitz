@@ -1,2 +1,2 @@
-# Britz
-Quick start with Britz.Js test
+# Blitz
+Quick start with Blitz.Js test
